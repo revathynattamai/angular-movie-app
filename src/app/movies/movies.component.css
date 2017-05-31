@@ -1,0 +1,11 @@
+button{
+    color: black;
+}
+.panel-heading ,container{
+    background-color: black;
+    color: white;
+}
+@media screen and (max-width:600px)
+{
+img:100%;
+}

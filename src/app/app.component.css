@@ -1,0 +1,18 @@
+.navbar
+{
+    height: 70px;
+}
+.navbar-brand{
+    padding-top: 1px;
+}
+body{
+    background-color: black;
+    color: white;
+}
+button{
+    color: black;
+}
+.panel-heading ,container{
+    background-color: black;
+    color: white;
+}
